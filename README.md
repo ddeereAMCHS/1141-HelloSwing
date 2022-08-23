@@ -1,5 +1,7 @@
 # Hello Swing
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Open the file `HelloSwing.java`
 - Familiarize yourself with the different parts of creating a GUI
 - Change the text for the existing label to say "Counter: " instead of "Number of button clicks: "
