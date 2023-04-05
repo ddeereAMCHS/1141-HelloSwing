@@ -1,6 +1,6 @@
 # Hello Swing
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Thur 4/6 at 11:59 PM
 
 - Open the file `HelloSwing.java`
 - Familiarize yourself with the different parts of creating a GUI
