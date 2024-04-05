@@ -8,5 +8,5 @@
 - Change the text for the existing button to say "Increment"
 - Create a second button with the label "Decrement" that decrements the counter and updates the label when clicked
 - Create a second label that says "ON"
-- Create a third button with the text "Toggle" that changes the second label to "OFF" if it is "ON" and "ON" if is "OFF"
+- Create a third button with the text "Toggle" that changes the second label to "OFF" if it is "ON" and "ON" if it is "OFF"
 - When you are done, uncomment the print statement in `Done.java`
